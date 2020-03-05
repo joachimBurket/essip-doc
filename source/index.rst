@@ -7,9 +7,11 @@ Welcome to EssipLib's documentation!
 ====================================
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
 
+..    essip/Data types/index
 
 
 Indices and tables
