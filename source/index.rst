@@ -11,7 +11,7 @@ Welcome to EssipLib's documentation!
    :maxdepth: 2
    :titlesonly:
 
-..    essip/Data types/index
+   essip/Data types/index
 
 
 Indices and tables
