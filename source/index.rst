@@ -14,9 +14,18 @@ Welcome to EssipLib's documentation!
    essip/Data types/index
 
 
-Indices and tables
-==================
+Appropriate topics for documentation often include:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* General introduction to the library. The introduction particularly needs to include:
+* A very high-level overview of what the library is good for, and perhaps what it isn't good for, understandable even by those with no prior knowledge of the problem domain.
+* The simplest possible ("hello world") example of using the library.
+* Tutorial covering basic use cases.
+* Reference documentation:
+* Description of each class.
+* Relationship between classes.
+* For each function, as applicable, description, requirements (preconditions), effects, post-conditions, returns, and throws.
+* Discussion of error detection and recovery strategy.
+* How to compile and link.
+* How to test.
+* Version or revision history.
+
