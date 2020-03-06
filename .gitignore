@@ -1,0 +1,6 @@
+*.doctree
+*.pickle
+.vscode/*
+.idea
+*.iml
+build/
